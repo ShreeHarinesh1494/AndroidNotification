@@ -10,8 +10,8 @@ This Android app is a simple notification app developed as part of the CodeSoft 
 
 ## Screenshots
 
-![Screenshot 1](Task%204%20pic%201.png) ![Screenshot 2](Task%204%20pic%202.png)
-
+![Screenshot 1](Task%204%20pic%201.png)
+![Screenshot 2](Task%204%20pic%202.png)
 
 ### Prerequisites
 
